@@ -9,6 +9,7 @@ Welcome to the **Trio Challenge** repository! This project is designed to demons
 The Trio Challenge is split into two main parts:
 
 1. **Backend**  
+   - **API Specification**: [Live Demo](https://trio-webapi-ljznq.ondigitalocean.app/scalar/#tag/contacts/GET/Contacts/Sync)  
    - **Walkthrough Video**: [Watch on YouTube](https://youtu.be/ZhS6_a2YQiI)  
    - **Technical Design Docs**: [Open Docs](https://docs.google.com/document/d/1jGJVsQHVcA6TybVirn0htacRQNtymo1S/edit?usp=drive_link&ouid=109793403992263305439&rtpof=true&sd=true)  
    This backend handles core business logic, data processing, and integrates with external services.
